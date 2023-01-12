@@ -1,4 +1,4 @@
 package projectmarket;
-public class ghaniashafiqa {
+public class sayidnabil {
     String nama = "Ghania Shafiqa Raisa";
 }
