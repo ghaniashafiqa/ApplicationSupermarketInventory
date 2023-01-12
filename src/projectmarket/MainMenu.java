@@ -73,7 +73,7 @@ public class MainMenu extends javax.swing.JFrame {
         transactionTableModel.addColumn("Product Name");
         transactionTableModel.addColumn("Price");
         transactionTableModel.addColumn("Quantity");
-        transactionTableModel.addColumn("Total Price (with tax)");
+        transactionTableModel.addColumn("Total Harganya Segini (with tax)");
 
     }
 
